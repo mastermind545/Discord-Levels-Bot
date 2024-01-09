@@ -130,7 +130,7 @@ for fn in listdir("System"):
 logging.info("------------- Finished Loading -------------")
 
 # Uses the bot token to login, so don't remove this.
-token = os.getenv("DISCORD_TOKEN")
+token = os.getenv("MTE5Mzg5NzI3Mzc5MzQ2MjI3Mg.Gu62la.B_J5OVE5ImqgHa956ISDBArGvHECs7_LX0rpOc")
 Client.ipc.start()
 Client.run(token)
 
